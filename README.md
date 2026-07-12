@@ -10,13 +10,4 @@ Evidence-Backed: We provide differential testing receipts for every critical ari
 
 Currently focusing on the Fenrua Kernel—an audit-sealed P-521 limb-based primitive designed for verifiable agent execution.
 
-Explore the Protocol Infrastructure
-
-### 🌐 Connect
-🔗 [fenrua.ai](https://fenrua.ai)  
-🐦 [@FenruaLabs](https://x.com/FenruaLabs)  
-💼 [LinkedIn](https://linkedin.com/in/fenrua-labs-80b679388)  
-📺 [YouTube](https://www.youtube.com/@FenruaLabs)  
-🎬 [TikTok](https://tiktok.com/@fenrualabs)
-
-> *“Pushing the edge of human × machine creativity.”*
+Explore the Protocol Infrastructure.

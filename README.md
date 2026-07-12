@@ -1,14 +1,16 @@
-# 🐺 Fenrua Labs
+Fenrua Labs: Protocol Infrastructure
+We build verifiable primitives for the next generation of autonomous AI agents. Our work prioritizes mathematical transparency, evidence-based security, and limb-based arithmetic.
 
-**Independent AI Lab | Building intelligent tools that bridge human creativity and machine intelligence.**
+The Fenrua Standard
+Primitive-First: High-performance, low-level architecture bypassing legacy overhead.
 
-We craft systems that empower creators, founders, and dreamers to design, build, and automate the next generation of human-aligned AI.
+Audit-Sealed: All protocol advancements are developed with public security logs and Genesis-linked evidence.
 
-### ⚙️ Focus Areas
-- AI System Architecture & Agent Design  
-- Automation & Adaptive Intelligence  
-- Human-Machine Collaboration  
-- Creative Tools for Founders & Artists  
+Evidence-Backed: We provide differential testing receipts for every critical arithmetic circuit.
+
+Currently focusing on the Fenrua Kernel—an audit-sealed P-521 limb-based primitive designed for verifiable agent execution.
+
+Explore the Protocol Infrastructure
 
 ### 🌐 Connect
 🔗 [fenrua.ai](https://fenrua.ai)  

@@ -43,4 +43,10 @@ Human review controlled the project direction, security boundaries, protected-in
 
 Codex/GPT-5.6 did not publish protected keys, private routes, credentials, provider internals, activation profile details, treasury mappings, private mesh topology, or confidential operational wiring.
 
-Codex work was distributed across multiple project threads because Fenrua included repository implementation, protocol review, validation planning, evidence-bound public copy, and submission packaging. The submitted /feedback Session ID is from the most representative primary build thread, while the repository history and submission packet document the broader Codex/GPT-5.6 workflow.
+### Distributed Codex Workflow
+
+Fenrua was not built in a single linear Codex thread. The project used a distributed, task-specific workflow across multiple Codex/GPT-5.6 sessions because the protocol North Star evolved during the build period.
+
+Separate sessions were used for repository implementation, architecture review, validation planning, public evidence copy, department-style review, compliance-safe wording, protocol roadmap alignment, and submission preparation.
+
+The project README and submission packet document this broader workflow rather than treating one thread as the full source of project development.

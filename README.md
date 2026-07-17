@@ -42,3 +42,5 @@ They supported:
 Human review controlled the project direction, security boundaries, protected-infrastructure non-disclosure, and final submission content.
 
 Codex/GPT-5.6 did not publish protected keys, private routes, credentials, provider internals, activation profile details, treasury mappings, private mesh topology, or confidential operational wiring.
+
+Codex work was distributed across multiple project threads because Fenrua included repository implementation, protocol review, validation planning, evidence-bound public copy, and submission packaging. The submitted /feedback Session ID is from the most representative primary build thread, while the repository history and submission packet document the broader Codex/GPT-5.6 workflow.
